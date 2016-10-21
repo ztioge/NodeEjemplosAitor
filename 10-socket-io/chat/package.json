@@ -1,0 +1,15 @@
+{
+	"name": "socket-io",
+	"description": "socket.io example",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": "4.x",
+		"socket.io": "^1.1.0"
+	},
+
+	"scripts" : {
+		"start": "node app.js"
+	},
+	"main": "app.js"
+}

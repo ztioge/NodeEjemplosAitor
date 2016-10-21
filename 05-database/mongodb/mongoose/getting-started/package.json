@@ -1,0 +1,9 @@
+{
+  "name": "mongoose-getting-started",
+  "description": "mongoose-getting-started",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.10.1",
+    "mongoose": "^4.3.7"
+  }
+}

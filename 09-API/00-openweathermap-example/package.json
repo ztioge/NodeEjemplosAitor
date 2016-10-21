@@ -1,0 +1,9 @@
+{
+  "name": "api-request",
+  "description": "api request example",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "4.x",
+    "request": "^2.45.0"
+  }
+}

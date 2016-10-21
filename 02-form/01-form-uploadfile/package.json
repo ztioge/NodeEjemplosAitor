@@ -1,0 +1,10 @@
+{
+  "name": "form",
+  "description": "form upload file",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.8.3",
+    "express": "4.x",
+    "multer": "^1.1.0"
+  }
+}

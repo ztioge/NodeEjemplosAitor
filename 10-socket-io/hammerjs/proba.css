@@ -1,0 +1,30 @@
+body {
+	/*background: red;
+	border-top: 12px;*/
+}
+
+#bat {
+	left: 0px;
+}
+
+#bi {
+	left: 150px;
+}
+
+#hiru {
+	left: 300px;
+}
+
+.proba {
+	width: 100px;
+    height: 100px;
+    background: yellow;
+    box-shadow: 10px 10px 5px #888888;
+    text-align: center;
+    position: absolute;
+    padding: 10px;
+}
+
+
+
+

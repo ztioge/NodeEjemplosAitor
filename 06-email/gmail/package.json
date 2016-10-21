@@ -1,0 +1,10 @@
+{
+  "name": "node-email",
+  "description": "node nodemailer email app",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "express": "4.x",
+    "nodemailer": "^1.3.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "shortUrl",
+  "description": "api shortUrl",
+  "version": "0.0.1",
+  "dependencies": {
+    "googleapis": "~1.0.22"
+  }
+}

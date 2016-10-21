@@ -1,0 +1,9 @@
+{
+  "name": "bcrypt",
+  "version": "1.0.0",
+  "description": "bcrypt example hash",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "app-example",
+  "version": "1.0.0",
+  "description": "app scaffolding",
+  "main": "app.js",
+  "author": "zmwebdev",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1",
+    "express-session": "^1.12.1",
+    "mongodb": "^2.1.1"
+  }
+}

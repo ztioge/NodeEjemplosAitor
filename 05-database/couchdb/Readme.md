@@ -1,0 +1,4 @@
+- http://couchdb.apache.org/
+- https://pouchdb.com/
+- https://cloudant.com
+- https://github.com/zmwebdev/pouchdb
