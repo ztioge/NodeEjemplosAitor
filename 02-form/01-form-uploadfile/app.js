@@ -15,6 +15,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 // public files
+//En la siguiente linea ponemos /public como si fuera la raiz
 app.use(express.static(__dirname + '/public'));
 
 var multer  = require('multer')

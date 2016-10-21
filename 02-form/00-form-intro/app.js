@@ -12,6 +12,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 // public files
+//En la siguiente linea ponemos que la raiz sea desde /public, y mas cosas.
 app.use(express.static(__dirname + '/public'));
 
 
